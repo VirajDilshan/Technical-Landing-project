@@ -65,4 +65,52 @@ h1 {
 }
 
 
+h2 > span {
+    color: white;
+}
+
+
+
+@media (max-width:768px) {
+    h1 {
+        background-color: #449d44;
+    }
+    h2 {
+        background-color: #449d44;
+    }
+}
+
+
+@media (min-width:768px) {
+    h1 {
+        background-color: skyblue;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
