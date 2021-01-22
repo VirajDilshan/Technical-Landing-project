@@ -1,0 +1,68 @@
+    /* body {
+    background-color: red;
+    } */
+
+html {
+    height: 100%;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: left;
+  vertical-align: top;
+}
+
+.navbar .navbar-nav .right {
+    display: inline-block;
+    float: right;
+    vertical-align: top; 
+}
+
+
+
+.navbar .navbar-collapse {
+  text-align: left;
+}
+
+
+.navbar .navbar-collapse li {
+    padding-right: 20px;
+}
+
+.navbar .navbar-collapse li a {
+    padding-right: 40px;
+    
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .navbar-default {
+    background-color: red;
+} */
+
+
+
+.center {
+    text-align: center;
+    padding-top: 6%;
+}
+
+p,i{
+    color: antiquewhite;
+}
+
+h1 {
+    color: red;
+}
+
+
+
